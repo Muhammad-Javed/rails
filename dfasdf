@@ -1,0 +1,36 @@
+[33mcommit baa771bcc9f91d5c25a3760278ad850e93d9143a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Hazeen24 <muhammad.javed@devsinc.com>
+Date:   Mon Jan 13 17:40:32 2020 +0500
+
+    first commit
+
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..7db80e4[m
+[1m--- /dev/null[m
+[1m+++ b/README.md[m
+[36m@@ -0,0 +1,24 @@[m
+[32m+[m[32m# README[m
+[32m+[m
+[32m+[m[32mThis README would normally document whatever steps are necessary to get the[m
+[32m+[m[32mapplication up and running.[m
+[32m+[m
+[32m+[m[32mThings you may want to cover:[m
+[32m+[m
+[32m+[m[32m* Ruby version[m
+[32m+[m
+[32m+[m[32m* System dependencies[m
+[32m+[m
+[32m+[m[32m* Configuration[m
+[32m+[m
+[32m+[m[32m* Database creation[m
+[32m+[m
+[32m+[m[32m* Database initialization[m
+[32m+[m
+[32m+[m[32m* How to run the test suite[m
+[32m+[m
+[32m+[m[32m* Services (job queues, cache servers, search engines, etc.)[m
+[32m+[m
+[32m+[m[32m* Deployment instructions[m
+[32m+[m
+[32m+[m[32m* ...[m
